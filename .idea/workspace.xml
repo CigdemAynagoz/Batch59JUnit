@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be75f1da-b33f-498b-b9eb-b319d48bf130" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_LUnit/C03_JUnitIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_LUnit/C04_BeforeAfter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day05_LUnit/C02_MavenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_LUnit/C02_MavenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +45,8 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C02_MavenTest">
-    <configuration name="C01_MavenIlkClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05_LUnit.C01_MavenIlkClass" />
+  <component name="RunManager" selected="JUnit.C04_BeforeAfter">
+    <configuration name="C03_JUnitIlkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
@@ -53,12 +54,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day05_LUnit" />
+      <option name="MAIN_CLASS_NAME" value="day05_LUnit.C03_JUnitIlkTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_MavenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05_LUnit.C02_MavenTest" />
+    <configuration name="C03_JUnitIlkTest.method1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
@@ -66,14 +69,68 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day05_LUnit" />
+      <option name="MAIN_CLASS_NAME" value="day05_LUnit.C03_JUnitIlkTest" />
+      <option name="METHOD_NAME" value="method1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_JUnitIlkTest.method3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05_LUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day05_LUnit" />
+      <option name="MAIN_CLASS_NAME" value="day05_LUnit.C03_JUnitIlkTest" />
+      <option name="METHOD_NAME" value="method3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_BeforeAfter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05_LUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day05_LUnit" />
+      <option name="MAIN_CLASS_NAME" value="day05_LUnit.C04_BeforeAfter" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_BeforeAfter.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05_LUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day05_LUnit" />
+      <option name="MAIN_CLASS_NAME" value="day05_LUnit.C04_BeforeAfter" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C02_MavenTest" />
-        <item itemvalue="Application.C01_MavenIlkClass" />
+        <item itemvalue="JUnit.C04_BeforeAfter" />
+        <item itemvalue="JUnit.C04_BeforeAfter.test01" />
+        <item itemvalue="JUnit.C03_JUnitIlkTest" />
+        <item itemvalue="JUnit.C03_JUnitIlkTest.method3" />
+        <item itemvalue="JUnit.C03_JUnitIlkTest.method1" />
       </list>
     </recent_temporary>
   </component>
@@ -98,5 +155,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/day05_LUnit/C02_MavenTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
