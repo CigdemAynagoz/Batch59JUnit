@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be75f1da-b33f-498b-b9eb-b319d48bf130" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C01_BeforeClass_AfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C02_CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C03_RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C04_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C01_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C02_BestBuyAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C03_YanlisEmailTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C04_DropDownMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,79 +47,78 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C04_Assertions.test01">
-    <configuration name="C01_BeforeClass_AfterClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C04_DropDownMenu">
+    <configuration name="C01_Assertions.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_radioButton_checkBox.*" />
+          <option name="PATTERN" value="day07_assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_radioButton_checkBox" />
-      <option name="MAIN_CLASS_NAME" value="day06_radioButton_checkBox.C01_BeforeClass_AfterClass" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_CheckBox.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06_radioButton_checkBox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day06_radioButton_checkBox" />
-      <option name="MAIN_CLASS_NAME" value="day06_radioButton_checkBox.C02_CheckBox" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day07_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions.C01_Assertions" />
+      <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_RadioButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_BestBuyAssertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_radioButton_checkBox.*" />
+          <option name="PATTERN" value="day07_assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_radioButton_checkBox" />
-      <option name="MAIN_CLASS_NAME" value="day06_radioButton_checkBox.C03_RadioButton" />
+      <option name="PACKAGE_NAME" value="day07_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions.C02_BestBuyAssertions" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_RadioButton.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_YanlisEmailTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_radioButton_checkBox.*" />
+          <option name="PATTERN" value="day07_assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_radioButton_checkBox" />
-      <option name="MAIN_CLASS_NAME" value="day06_radioButton_checkBox.C03_RadioButton" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="day07_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions.C03_YanlisEmailTesti" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_Assertions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_DropDownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_radioButton_checkBox.*" />
+          <option name="PATTERN" value="day07_assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_radioButton_checkBox" />
-      <option name="MAIN_CLASS_NAME" value="day06_radioButton_checkBox.C04_Assertions" />
+      <option name="PACKAGE_NAME" value="day07_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions.C04_DropDownMenu" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_DropDownMenu.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day07_assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day07_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions.C04_DropDownMenu" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -129,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C04_Assertions.test01" />
-        <item itemvalue="JUnit.C03_RadioButton.test" />
-        <item itemvalue="JUnit.C03_RadioButton" />
-        <item itemvalue="JUnit.C02_CheckBox.test01" />
-        <item itemvalue="JUnit.C01_BeforeClass_AfterClass" />
+        <item itemvalue="JUnit.C04_DropDownMenu" />
+        <item itemvalue="JUnit.C04_DropDownMenu.test01" />
+        <item itemvalue="JUnit.C03_YanlisEmailTesti" />
+        <item itemvalue="JUnit.C02_BestBuyAssertions" />
+        <item itemvalue="JUnit.C01_Assertions.test03" />
       </list>
     </recent_temporary>
   </component>
