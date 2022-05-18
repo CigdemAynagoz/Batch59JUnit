@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be75f1da-b33f-498b-b9eb-b319d48bf130" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts/C01_Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts/C02_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts/C03_BasicAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts/C04_IFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C02_Alerts">
+  <component name="RunManager" selected="JUnit.C03_BasicAuthentication">
     <configuration name="C01_Alerts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
@@ -79,33 +76,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_Alerts.sendKeysAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="day08_alerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Practice" />
-      <option name="MAIN_CLASS_NAME" value="Practice.Q01" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day08_alerts" />
+      <option name="MAIN_CLASS_NAME" value="day08_alerts.C02_Alerts" />
+      <option name="METHOD_NAME" value="sendKeysAlert" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_BasicAuthentication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="day08_alerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Practice" />
-      <option name="MAIN_CLASS_NAME" value="Practice.Q01" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="day08_alerts" />
+      <option name="MAIN_CLASS_NAME" value="day08_alerts.C03_BasicAuthentication" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C03_BasicAuthentication" />
         <item itemvalue="JUnit.C02_Alerts" />
+        <item itemvalue="JUnit.C02_Alerts.sendKeysAlert" />
         <item itemvalue="JUnit.C01_Alerts" />
         <item itemvalue="JUnit.Q02" />
-        <item itemvalue="JUnit.Q01" />
-        <item itemvalue="JUnit.Q01.test01" />
       </list>
     </recent_temporary>
   </component>
