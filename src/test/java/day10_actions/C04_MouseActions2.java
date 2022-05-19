@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-public class C03_MouseActions2 extends TestBase {
+public class C04_MouseActions2 extends TestBase {
     @Test
     public void test01() {
 
