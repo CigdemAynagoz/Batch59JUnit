@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be75f1da-b33f-498b-b9eb-b319d48bf130" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C03_windowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C01_Faker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C02_KeyboardActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C02_handleWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C02_handleWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day10_actions/C06_KeyboardActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C06_KeyboardActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,18 +48,34 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C03_windowHandles.test01">
-    <configuration name="C02_handleWindows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C02_KeyboardActions.test01">
+    <configuration name="C01_Faker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_handleWindows_testBase.*" />
+          <option name="PATTERN" value="day11_faker_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day09_handleWindows_testBase" />
-      <option name="MAIN_CLASS_NAME" value="day09_handleWindows_testBase.C02_handleWindows" />
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C01_Faker" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_KeyboardActions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C02_KeyboardActions" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,21 +112,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_KeyboardActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day10_actions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day10_actions" />
-      <option name="MAIN_CLASS_NAME" value="day10_actions.C05_KeyboardActions" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C06_KeyboardActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
@@ -125,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C02_KeyboardActions.test01" />
+        <item itemvalue="JUnit.C01_Faker" />
+        <item itemvalue="JUnit.C06_KeyboardActions" />
         <item itemvalue="JUnit.C03_windowHandles.test01" />
         <item itemvalue="JUnit.C02_handleWindows.test01" />
-        <item itemvalue="JUnit.C02_handleWindows" />
-        <item itemvalue="JUnit.C06_KeyboardActions" />
-        <item itemvalue="JUnit.C05_KeyboardActions" />
       </list>
     </recent_temporary>
   </component>
