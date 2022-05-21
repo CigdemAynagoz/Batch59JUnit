@@ -1,4 +1,4 @@
-package day11_faker_file;
+package day10_actions.day11_faker_file;
 
 import com.github.javafaker.Faker;
 import org.junit.Test;

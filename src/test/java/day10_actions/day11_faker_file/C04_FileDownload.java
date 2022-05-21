@@ -1,4 +1,4 @@
-package day11_faker_file;
+package day10_actions.day11_faker_file;
 
 import org.apache.commons.io.FileUtils;
 import org.junit.Assert;
