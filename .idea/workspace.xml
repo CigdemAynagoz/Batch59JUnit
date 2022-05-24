@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be75f1da-b33f-498b-b9eb-b319d48bf130" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C02_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C03_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C04_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C05_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C06_ReadExcel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C02_WebTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C02_WebTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C03_WebTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C03_WebTables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day14_excel/C01_ReadExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C01_ReadExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationExercise/AutomationExercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationExercise/AutomationExercise_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/90531/IdeaProjects/Batch59JUnit/src/resources",
+    "last_opened_file_path": "C:/Users/90531/IdeaProjects/Batch59JUnit/src/test/java/automationExercise",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -67,41 +52,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\90531\IdeaProjects\Batch59JUnit\src\test\java\automationExercise" />
       <recent name="C:\Users\90531\IdeaProjects\Batch59JUnit\src\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C01_ReadExcel">
-    <configuration name="C01_Cookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day13_cookies_webTables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day13_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day13_cookies_webTables.C01_Cookies" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_Cookies.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day13_cookies_webTables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day13_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day13_cookies_webTables.C01_Cookies" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C06_ReadExcel">
     <configuration name="C01_ReadExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
@@ -112,6 +67,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="day14_excel" />
       <option name="MAIN_CLASS_NAME" value="day14_excel.C01_ReadExcel" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_ReadExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14_excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day14_excel" />
+      <option name="MAIN_CLASS_NAME" value="day14_excel.C03_ReadExcel" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,23 +102,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_ReadExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
-      <option name="PACKAGE_NAME" value="OrnekTestler" />
-      <option name="MAIN_CLASS_NAME" value="OrnekTestler.Q01" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14_excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day14_excel" />
+      <option name="MAIN_CLASS_NAME" value="day14_excel.C04_ReadExcel" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_ReadExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14_excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day14_excel" />
+      <option name="MAIN_CLASS_NAME" value="day14_excel.C06_ReadExcel" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C06_ReadExcel" />
+        <item itemvalue="JUnit.C04_ReadExcel" />
+        <item itemvalue="JUnit.C03_ReadExcel" />
         <item itemvalue="JUnit.C01_ReadExcel" />
         <item itemvalue="JUnit.C03_WebTables" />
-        <item itemvalue="JUnit.C01_Cookies" />
-        <item itemvalue="JUnit.C01_Cookies.test01" />
-        <item itemvalue="JUnit.Q01.test01" />
       </list>
     </recent_temporary>
   </component>
