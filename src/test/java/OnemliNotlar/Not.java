@@ -1,3 +1,5 @@
+package OnemliNotlar;
+
 import org.junit.*;
 
 public class Not {
