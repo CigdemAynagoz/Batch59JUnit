@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be75f1da-b33f-498b-b9eb-b319d48bf130" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/TestCase1_RegisterUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/TestCase2_LoginUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/D19_MDArrayCozum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/D19_MDArrayCozum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +54,8 @@
       <recent name="C:\Users\90531\IdeaProjects\Batch59JUnit\src\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCase2_LoginUser">
-    <configuration name="S03.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.S08">
+    <configuration name="S06.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
@@ -64,14 +64,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="OrnekTestler" />
-      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S03" />
+      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S06" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S04.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="S07.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
@@ -80,14 +80,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="OrnekTestler" />
-      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S04" />
+      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S07" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S05.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="S08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
         <pattern>
@@ -96,9 +96,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="OrnekTestler" />
-      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S05" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S08" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.S08" />
+        <item itemvalue="JUnit.S07.test01" />
+        <item itemvalue="JUnit.S06.test01" />
         <item itemvalue="JUnit.TestCase2_LoginUser" />
         <item itemvalue="JUnit.TestCase1_RegisterUser" />
-        <item itemvalue="JUnit.S05.test01" />
-        <item itemvalue="JUnit.S04.test01" />
-        <item itemvalue="JUnit.S03.test01" />
       </list>
     </recent_temporary>
   </component>
