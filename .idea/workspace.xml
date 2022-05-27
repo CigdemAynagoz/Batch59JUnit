@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be75f1da-b33f-498b-b9eb-b319d48bf130" name="Changes" comment="" />
+    <list default="true" id="be75f1da-b33f-498b-b9eb-b319d48bf130" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/TestCase1_RegisterUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/TestCase2_LoginUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/D19_MDArrayCozum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/D19_MDArrayCozum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,38 +54,7 @@
       <recent name="C:\Users\90531\IdeaProjects\Batch59JUnit\src\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.S05.test01">
-    <configuration name="C04_JS_Executor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day15_writeExcel_screenShot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day15_writeExcel_screenShot" />
-      <option name="MAIN_CLASS_NAME" value="day15_writeExcel_screenShot.C04_JS_Executor" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="S01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OrnekTestler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="OrnekTestler" />
-      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S01" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestCase2_LoginUser">
     <configuration name="S03.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
@@ -129,13 +103,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCase1_RegisterUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrnekTestler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrnekTestler" />
+      <option name="MAIN_CLASS_NAME" value="OrnekTestler.TestCase1_RegisterUser" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase2_LoginUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrnekTestler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrnekTestler" />
+      <option name="MAIN_CLASS_NAME" value="OrnekTestler.TestCase2_LoginUser" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCase2_LoginUser" />
+        <item itemvalue="JUnit.TestCase1_RegisterUser" />
         <item itemvalue="JUnit.S05.test01" />
         <item itemvalue="JUnit.S04.test01" />
         <item itemvalue="JUnit.S03.test01" />
-        <item itemvalue="JUnit.S01.test01" />
-        <item itemvalue="JUnit.C04_JS_Executor" />
       </list>
     </recent_temporary>
   </component>
