@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be75f1da-b33f-498b-b9eb-b319d48bf130" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SeleniumStudy .txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/CanHocaSoru1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/CanhocaSoru2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OrnekTestler/S13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrnekTestler/S13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="C:\Users\90531\IdeaProjects\Batch59JUnit\src\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CanhocaSoru2.test01">
+  <component name="RunManager" selected="JUnit.S13.test01">
     <configuration name="CanHocaSoru1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
@@ -86,38 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S09.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OrnekTestler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="OrnekTestler" />
-      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S09" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="S10.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Batch59JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OrnekTestler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="OrnekTestler" />
-      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S10" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="S11.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch59JUnit" />
       <extension name="coverage">
@@ -134,13 +101,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="S12.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrnekTestler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrnekTestler" />
+      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S12" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S13.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrnekTestler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrnekTestler" />
+      <option name="MAIN_CLASS_NAME" value="OrnekTestler.S13" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.S13.test01" />
+        <item itemvalue="JUnit.S12.test01" />
         <item itemvalue="JUnit.CanhocaSoru2.test01" />
         <item itemvalue="JUnit.CanHocaSoru1" />
         <item itemvalue="JUnit.S11.test01" />
-        <item itemvalue="JUnit.S10.test01" />
-        <item itemvalue="JUnit.S09.test01" />
       </list>
     </recent_temporary>
   </component>
